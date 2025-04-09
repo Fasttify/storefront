@@ -27,6 +27,10 @@ Combina los módulos de Medusa para tu backend de comercio con las característi
   </a>
 </p>
 
+<p align="center">
+  <img src="https://i.imgur.com/gChyzJS.png" alt="Storefront personalizado con carrusel y navegación transparente" width="100%" />
+</p>
+
 # Características Personalizadas
 
 Esta versión personalizada del storefront de Medusa incluye las siguientes mejoras:

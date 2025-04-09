@@ -40,7 +40,7 @@ const Hero = () => {
     <section className="w-full h-screen -mt-16">
       <HeroCarousel
         items={carouselItems}
-        autoPlaySpeed={6000}
+        autoPlaySpeed={3000}
         height="100vh"
         enableAutoPlay={true}
       />
